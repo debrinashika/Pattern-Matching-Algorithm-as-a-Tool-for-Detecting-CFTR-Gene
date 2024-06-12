@@ -1,2 +1,3 @@
-# Analysis-of-Protein-Motifs-Using-the-Boyer-Moore-Algorithm
-Analysis of Protein Motifs as a Therapeutic Target in Patients with Protein Disorders Using the Boyer-Moore Algorithm Approach
+# Pattern Matching Algorithm as a Tool for Detecting CFTR Gene Mutations in Cystic Fibrosis Disease
+
+Cystic Fibrosis (CF) is a genetic disease caused by mutations in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene. Early detection of mutations in the CFTR gene is important for the development of effective therapies. This research implemented three pattern matching algorithms, namely Brute Force, Knuth-Morris-Pratt (KMP), and Boyer-Moore, to detect mutations in CFTR sequences. This study evaluates the efficiency of the algorithm based on the number of character comparisons and execution time. The results show that the Boyer-Moore algorithm is the most efficient in detecting mutations with a lower number of character comparisons and execution time compared to Brute Force and KMP. This implementation makes it easier for researchers to analyze CFTR mutations, assisting in diagnosis and development of appropriate therapies.
